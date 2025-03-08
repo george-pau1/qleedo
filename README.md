@@ -1,6 +1,6 @@
-# qleedo_trial7
+# Qleedo 2025
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
